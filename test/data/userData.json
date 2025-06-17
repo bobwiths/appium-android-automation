@@ -6,6 +6,21 @@
     "userFail": {
         "username": "userWrong",
         "password": "123456"
+    },
+    "checkoutForm": {
+        "fullName": "Rebecca Winter",
+        "addressLineOne": "Mandorley 112",
+        "addressLineTwo": "Entrance 1",
+        "city": "Truro",
+        "stateRegion": "Cornwall",
+        "zipCode": "89750",
+        "country": "United Kingdom"
+    },
+    "paymentMethod": {
+        "fullName":"Rebecca Winter",
+        "cardNumber": "3258 1265 7568 789",
+        "expirationDate": "03/25",
+        "securityCode": "123"
     }
 
 }
